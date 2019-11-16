@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/broom_48px.png</file>
+        <file>icons/cancel_48px.png</file>
+        <file>icons/console_48px.png</file>
+        <file>icons/exit_48px.png</file>
+        <file>icons/info_48px.png</file>
+        <file>icons/ok_48px.png</file>
+        <file>icons/open_48px.png</file>
+        <file>icons/reload_48px.png</file>
+        <file>icons/settings_48px.png</file>
+        <file>icons/start_48px.png</file>
+        <file>icons/stop_48px.png</file>
+        <file>led/led-blue.png</file>
+        <file>led/led-brown.png</file>
+        <file>led/led-green.png</file>
+        <file>led/led-grey.png</file>
+        <file>led/led-orange.png</file>
+        <file>led/led-red.png</file>
+        <file>led/led-violet.png</file>
+        <file>led/led-white.png</file>
+        <file>led/led-yellow.png</file>
+    </qresource>
+</RCC>
